@@ -1,0 +1,2246 @@
+[
+  {
+    "id": "Y2R-DEMO-044",
+    "createdAt": "2026-10-16T03:11:40.000Z",
+    "customer": {
+      "name": "مريم بن علي",
+      "phone": "0550 00 77 82",
+      "city": "جيجل"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 40,
+        "color": "برتقالي",
+        "qty": 2,
+        "price": 8100
+      }
+    ],
+    "total": 16200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-062",
+    "createdAt": "2026-10-16T04:23:36.000Z",
+    "customer": {
+      "name": "ليلى تيطراوي",
+      "phone": "0550 00 62 40",
+      "city": "سيدي بلعباس"
+    },
+    "items": [
+      {
+        "id": 10,
+        "name": "Y2R Cloud",
+        "size": 43,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 9400
+      }
+    ],
+    "total": 9400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-094",
+    "createdAt": "2026-10-16T05:50:39.000Z",
+    "customer": {
+      "name": "هشام زروقي",
+      "phone": "0550 00 91 58",
+      "city": "غرداية"
+    },
+    "items": [
+      {
+        "id": 20,
+        "name": "Y2R Summit",
+        "size": 43,
+        "color": "وردي",
+        "qty": 1,
+        "price": 9600
+      },
+      {
+        "id": 6,
+        "name": "Y2R Cobalt",
+        "size": 39,
+        "color": "برتقالي",
+        "qty": 1,
+        "price": 8800
+      }
+    ],
+    "total": 18400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-052",
+    "createdAt": "2026-10-16T05:58:49.000Z",
+    "customer": {
+      "name": "سارة حداد",
+      "phone": "0550 00 34 37",
+      "city": "غرداية"
+    },
+    "items": [
+      {
+        "id": 18,
+        "name": "Y2R Shadow",
+        "size": 41,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 6700
+      }
+    ],
+    "total": 6700,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-078",
+    "createdAt": "2026-10-16T06:15:17.000Z",
+    "customer": {
+      "name": "نور الهدى مقران",
+      "phone": "0550 00 96 77",
+      "city": "سكيكدة"
+    },
+    "items": [
+      {
+        "id": 6,
+        "name": "Y2R Cobalt",
+        "size": 39,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 8800
+      }
+    ],
+    "total": 8800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-012",
+    "createdAt": "2026-10-16T09:34:01.000Z",
+    "customer": {
+      "name": "آية عمراني",
+      "phone": "0550 00 08 83",
+      "city": "بجاية"
+    },
+    "items": [
+      {
+        "id": 4,
+        "name": "Y2R Midas",
+        "size": 43,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 9600
+      },
+      {
+        "id": 9,
+        "name": "Y2R Cognac",
+        "size": 40,
+        "color": "أزرق",
+        "qty": 2,
+        "price": 7000
+      }
+    ],
+    "total": 23600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-010",
+    "createdAt": "2026-10-16T14:19:00.000Z",
+    "customer": {
+      "name": "سلمى بوشارب",
+      "phone": "0550 00 62 46",
+      "city": "باتنة"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Y2R Sand",
+        "size": 43,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 6800
+      }
+    ],
+    "total": 6800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-086",
+    "createdAt": "2026-10-16T16:58:51.000Z",
+    "customer": {
+      "name": "ريم شريف",
+      "phone": "0550 00 83 83",
+      "city": "جيجل"
+    },
+    "items": [
+      {
+        "id": 15,
+        "name": "Y2R Noir Gold",
+        "size": 39,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 7300
+      }
+    ],
+    "total": 7300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-095",
+    "createdAt": "2026-10-16T18:45:28.000Z",
+    "customer": {
+      "name": "شيماء عمراني",
+      "phone": "0550 00 14 08",
+      "city": "سطيف"
+    },
+    "items": [
+      {
+        "id": 16,
+        "name": "Y2R Duo",
+        "size": 43,
+        "color": "وردي",
+        "qty": 2,
+        "price": 7200
+      }
+    ],
+    "total": 14400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-081",
+    "createdAt": "2026-10-17T01:17:04.000Z",
+    "customer": {
+      "name": "عبد الرحمن بوزيد",
+      "phone": "0550 00 67 59",
+      "city": "سطيف"
+    },
+    "items": [
+      {
+        "id": 13,
+        "name": "Y2R Mesh",
+        "size": 42,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 7500
+      }
+    ],
+    "total": 7500,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-038",
+    "createdAt": "2026-10-17T14:23:40.000Z",
+    "customer": {
+      "name": "ريم بن يحيى",
+      "phone": "0550 00 90 46",
+      "city": "تلمسان"
+    },
+    "items": [
+      {
+        "id": 8,
+        "name": "Y2R Crown",
+        "size": 40,
+        "color": "وردي",
+        "qty": 1,
+        "price": 7600
+      }
+    ],
+    "total": 7600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-040",
+    "createdAt": "2026-10-18T14:27:56.000Z",
+    "customer": {
+      "name": "ياسين بوشارب",
+      "phone": "0550 00 89 52",
+      "city": "وهران"
+    },
+    "items": [
+      {
+        "id": 6,
+        "name": "Y2R Cobalt",
+        "size": 42,
+        "color": "وردي",
+        "qty": 1,
+        "price": 8800
+      }
+    ],
+    "total": 8800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-001",
+    "createdAt": "2026-10-18T21:26:01.000Z",
+    "customer": {
+      "name": "ريم خليفي",
+      "phone": "0550 00 79 71",
+      "city": "مستغانم"
+    },
+    "items": [
+      {
+        "id": 17,
+        "name": "Y2R Trail",
+        "size": 39,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 9100
+      }
+    ],
+    "total": 9100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-024",
+    "createdAt": "2026-10-19T01:23:34.000Z",
+    "customer": {
+      "name": "مريم تيطراوي",
+      "phone": "0550 00 52 69",
+      "city": "عنابة"
+    },
+    "items": [
+      {
+        "id": 7,
+        "name": "Y2R High Rise",
+        "size": 39,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 8300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-082",
+    "createdAt": "2026-10-19T12:11:04.000Z",
+    "customer": {
+      "name": "أمينة بن علي",
+      "phone": "0550 00 45 77",
+      "city": "سكيكدة"
+    },
+    "items": [
+      {
+        "id": 17,
+        "name": "Y2R Trail",
+        "size": 42,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 9100
+      }
+    ],
+    "total": 9100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-055",
+    "createdAt": "2026-10-19T21:02:29.000Z",
+    "customer": {
+      "name": "سفيان تيطراوي",
+      "phone": "0550 00 01 04",
+      "city": "تلمسان"
+    },
+    "items": [
+      {
+        "id": 20,
+        "name": "Y2R Summit",
+        "size": 42,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 9600
+      }
+    ],
+    "total": 9600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-060",
+    "createdAt": "2026-10-20T07:42:27.000Z",
+    "customer": {
+      "name": "مراد شريف",
+      "phone": "0550 00 47 35",
+      "city": "سكيكدة"
+    },
+    "items": [
+      {
+        "id": 9,
+        "name": "Y2R Cognac",
+        "size": 40,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 7000
+      },
+      {
+        "id": 1,
+        "name": "Y2R Sand",
+        "size": 41,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 6800
+      }
+    ],
+    "total": 13800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-091",
+    "createdAt": "2026-10-20T17:36:30.000Z",
+    "customer": {
+      "name": "سفيان بلقاسم",
+      "phone": "0550 00 87 41",
+      "city": "عنابة"
+    },
+    "items": [
+      {
+        "id": 5,
+        "name": "Y2R Aurum",
+        "size": 40,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 9900
+      }
+    ],
+    "total": 9900,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-088",
+    "createdAt": "2026-10-20T19:26:47.000Z",
+    "customer": {
+      "name": "سارة قاسمي",
+      "phone": "0550 00 29 68",
+      "city": "ورقلة"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 44,
+        "color": "وردي",
+        "qty": 1,
+        "price": 9200
+      },
+      {
+        "id": 17,
+        "name": "Y2R Trail",
+        "size": 42,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 9100
+      }
+    ],
+    "total": 18300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-061",
+    "createdAt": "2026-10-20T23:14:36.000Z",
+    "customer": {
+      "name": "هاجر مقران",
+      "phone": "0550 00 92 92",
+      "city": "سكيكدة"
+    },
+    "items": [
+      {
+        "id": 13,
+        "name": "Y2R Mesh",
+        "size": 39,
+        "color": "برتقالي",
+        "qty": 1,
+        "price": 7500
+      }
+    ],
+    "total": 7500,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-003",
+    "createdAt": "2026-10-20T23:22:15.000Z",
+    "customer": {
+      "name": "ياسمين عمراني",
+      "phone": "0550 00 86 40",
+      "city": "باتنة"
+    },
+    "items": [
+      {
+        "id": 10,
+        "name": "Y2R Cloud",
+        "size": 39,
+        "color": "وردي",
+        "qty": 1,
+        "price": 9400
+      }
+    ],
+    "total": 9400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-011",
+    "createdAt": "2026-10-21T04:16:09.000Z",
+    "customer": {
+      "name": "سارة بوزيد",
+      "phone": "0550 00 37 40",
+      "city": "الشلف"
+    },
+    "items": [
+      {
+        "id": 16,
+        "name": "Y2R Duo",
+        "size": 42,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 7200
+      }
+    ],
+    "total": 7200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-085",
+    "createdAt": "2026-10-21T07:47:12.000Z",
+    "customer": {
+      "name": "سارة حداد",
+      "phone": "0550 00 57 70",
+      "city": "وهران"
+    },
+    "items": [
+      {
+        "id": 6,
+        "name": "Y2R Cobalt",
+        "size": 44,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 8800
+      }
+    ],
+    "total": 8800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-056",
+    "createdAt": "2026-10-21T16:39:49.000Z",
+    "customer": {
+      "name": "فاطمة مداني",
+      "phone": "0550 00 79 80",
+      "city": "بسكرة"
+    },
+    "items": [
+      {
+        "id": 9,
+        "name": "Y2R Cognac",
+        "size": 40,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 7000
+      }
+    ],
+    "total": 7000,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-021",
+    "createdAt": "2026-10-21T20:30:20.000Z",
+    "customer": {
+      "name": "فاطمة بلقاسم",
+      "phone": "0550 00 20 84",
+      "city": "عنابة"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Y2R Sand",
+        "size": 40,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 6800
+      }
+    ],
+    "total": 6800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-063",
+    "createdAt": "2026-10-22T15:17:13.000Z",
+    "customer": {
+      "name": "هاجر بوشارب",
+      "phone": "0550 00 66 49",
+      "city": "البليدة"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 40,
+        "color": "وردي",
+        "qty": 1,
+        "price": 9200
+      }
+    ],
+    "total": 9200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-050",
+    "createdAt": "2026-10-22T15:38:44.000Z",
+    "customer": {
+      "name": "ياسين سعيدي",
+      "phone": "0550 00 75 48",
+      "city": "باتنة"
+    },
+    "items": [
+      {
+        "id": 15,
+        "name": "Y2R Noir Gold",
+        "size": 41,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 7300
+      }
+    ],
+    "total": 7300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-037",
+    "createdAt": "2026-10-22T18:44:13.000Z",
+    "customer": {
+      "name": "هشام بوزيد",
+      "phone": "0550 00 84 01",
+      "city": "تلمسان"
+    },
+    "items": [
+      {
+        "id": 17,
+        "name": "Y2R Trail",
+        "size": 43,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 9100
+      }
+    ],
+    "total": 9100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-002",
+    "createdAt": "2026-10-22T21:15:40.000Z",
+    "customer": {
+      "name": "أمينة مزياني",
+      "phone": "0550 00 30 00",
+      "city": "المدية"
+    },
+    "items": [
+      {
+        "id": 18,
+        "name": "Y2R Shadow",
+        "size": 42,
+        "color": "وردي",
+        "qty": 1,
+        "price": 6700
+      }
+    ],
+    "total": 6700,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-005",
+    "createdAt": "2026-10-23T22:10:51.000Z",
+    "customer": {
+      "name": "وليد بن علي",
+      "phone": "0550 00 90 47",
+      "city": "بسكرة"
+    },
+    "items": [
+      {
+        "id": 15,
+        "name": "Y2R Noir Gold",
+        "size": 44,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 7300
+      }
+    ],
+    "total": 7300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-069",
+    "createdAt": "2026-10-23T23:19:54.000Z",
+    "customer": {
+      "name": "أحمد عمراني",
+      "phone": "0550 00 00 07",
+      "city": "البليدة"
+    },
+    "items": [
+      {
+        "id": 14,
+        "name": "Y2R Street",
+        "size": 40,
+        "color": "أحمر",
+        "qty": 2,
+        "price": 6500
+      }
+    ],
+    "total": 13000,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-099",
+    "createdAt": "2026-10-24T00:56:56.000Z",
+    "customer": {
+      "name": "خديجة بن يحيى",
+      "phone": "0550 00 28 88",
+      "city": "سيدي بلعباس"
+    },
+    "items": [
+      {
+        "id": 7,
+        "name": "Y2R High Rise",
+        "size": 41,
+        "color": "أحمر",
+        "qty": 2,
+        "price": 8300
+      }
+    ],
+    "total": 16600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-009",
+    "createdAt": "2026-10-24T11:12:25.000Z",
+    "customer": {
+      "name": "سلمى بن يحيى",
+      "phone": "0550 00 55 25",
+      "city": "تيزي وزو"
+    },
+    "items": [
+      {
+        "id": 10,
+        "name": "Y2R Cloud",
+        "size": 43,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 9400
+      }
+    ],
+    "total": 9400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-015",
+    "createdAt": "2026-10-24T17:22:30.000Z",
+    "customer": {
+      "name": "كريم جعفري",
+      "phone": "0550 00 28 60",
+      "city": "غرداية"
+    },
+    "items": [
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 42,
+        "color": "وردي",
+        "qty": 2,
+        "price": 8300
+      }
+    ],
+    "total": 16600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-035",
+    "createdAt": "2026-10-24T21:41:54.000Z",
+    "customer": {
+      "name": "عبد الرحمن مداني",
+      "phone": "0550 00 18 29",
+      "city": "الجزائر"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Y2R Sand",
+        "size": 43,
+        "color": "وردي",
+        "qty": 1,
+        "price": 6800
+      }
+    ],
+    "total": 6800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-018",
+    "createdAt": "2026-10-24T22:23:16.000Z",
+    "customer": {
+      "name": "مراد تيطراوي",
+      "phone": "0550 00 15 63",
+      "city": "الشلف"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Y2R Sand",
+        "size": 41,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 6800
+      }
+    ],
+    "total": 6800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-058",
+    "createdAt": "2026-10-24T23:34:44.000Z",
+    "customer": {
+      "name": "سارة بلقاسم",
+      "phone": "0550 00 13 03",
+      "city": "بجاية"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 43,
+        "color": "وردي",
+        "qty": 1,
+        "price": 9200
+      }
+    ],
+    "total": 9200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-014",
+    "createdAt": "2026-10-25T08:41:47.000Z",
+    "customer": {
+      "name": "مريم قاسمي",
+      "phone": "0550 00 19 00",
+      "city": "سيدي بلعباس"
+    },
+    "items": [
+      {
+        "id": 20,
+        "name": "Y2R Summit",
+        "size": 41,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 9600
+      }
+    ],
+    "total": 9600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-047",
+    "createdAt": "2026-10-25T23:46:01.000Z",
+    "customer": {
+      "name": "ياسين عمراني",
+      "phone": "0550 00 63 15",
+      "city": "المسيلة"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 41,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 9200
+      }
+    ],
+    "total": 9200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-027",
+    "createdAt": "2026-10-26T12:20:15.000Z",
+    "customer": {
+      "name": "فاطمة تيطراوي",
+      "phone": "0550 00 35 75",
+      "city": "قسنطينة"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 44,
+        "color": "وردي",
+        "qty": 1,
+        "price": 8100
+      }
+    ],
+    "total": 8100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-072",
+    "createdAt": "2026-10-26T12:52:14.000Z",
+    "customer": {
+      "name": "مراد جعفري",
+      "phone": "0550 00 77 61",
+      "city": "قسنطينة"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 41,
+        "color": "وردي",
+        "qty": 1,
+        "price": 8100
+      }
+    ],
+    "total": 8100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-008",
+    "createdAt": "2026-10-26T14:47:50.000Z",
+    "customer": {
+      "name": "مراد عمراني",
+      "phone": "0550 00 91 69",
+      "city": "بجاية"
+    },
+    "items": [
+      {
+        "id": 4,
+        "name": "Y2R Midas",
+        "size": 42,
+        "color": "وردي",
+        "qty": 1,
+        "price": 9600
+      },
+      {
+        "id": 5,
+        "name": "Y2R Aurum",
+        "size": 39,
+        "color": "أزرق",
+        "qty": 2,
+        "price": 9900
+      }
+    ],
+    "total": 29400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-025",
+    "createdAt": "2026-10-26T19:02:06.000Z",
+    "customer": {
+      "name": "نبيل جعفري",
+      "phone": "0550 00 96 72",
+      "city": "باتنة"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 44,
+        "color": "برتقالي",
+        "qty": 1,
+        "price": 8100
+      },
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 39,
+        "color": "وردي",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 16400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-030",
+    "createdAt": "2026-10-27T04:23:39.000Z",
+    "customer": {
+      "name": "ليلى مزياني",
+      "phone": "0550 00 54 86",
+      "city": "البليدة"
+    },
+    "items": [
+      {
+        "id": 20,
+        "name": "Y2R Summit",
+        "size": 41,
+        "color": "الأصلي",
+        "qty": 2,
+        "price": 9600
+      }
+    ],
+    "total": 19200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-080",
+    "createdAt": "2026-10-27T13:06:15.000Z",
+    "customer": {
+      "name": "مراد شريف",
+      "phone": "0550 00 98 14",
+      "city": "غرداية"
+    },
+    "items": [
+      {
+        "id": 11,
+        "name": "Y2R Volt",
+        "size": 40,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 8600
+      }
+    ],
+    "total": 8600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-083",
+    "createdAt": "2026-10-27T19:40:27.000Z",
+    "customer": {
+      "name": "سارة زروقي",
+      "phone": "0550 00 58 51",
+      "city": "البليدة"
+    },
+    "items": [
+      {
+        "id": 17,
+        "name": "Y2R Trail",
+        "size": 40,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 9100
+      }
+    ],
+    "total": 9100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-032",
+    "createdAt": "2026-10-27T20:21:49.000Z",
+    "customer": {
+      "name": "محمد جعفري",
+      "phone": "0550 00 43 25",
+      "city": "المسيلة"
+    },
+    "items": [
+      {
+        "id": 10,
+        "name": "Y2R Cloud",
+        "size": 44,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 9400
+      },
+      {
+        "id": 4,
+        "name": "Y2R Midas",
+        "size": 41,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 9600
+      }
+    ],
+    "total": 19000,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-007",
+    "createdAt": "2026-10-28T03:37:41.000Z",
+    "customer": {
+      "name": "خديجة بلقاسم",
+      "phone": "0550 00 06 90",
+      "city": "سكيكدة"
+    },
+    "items": [
+      {
+        "id": 13,
+        "name": "Y2R Mesh",
+        "size": 42,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 7500
+      },
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 39,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 15800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-066",
+    "createdAt": "2026-10-28T05:28:53.000Z",
+    "customer": {
+      "name": "سلمى بوزيد",
+      "phone": "0550 00 35 38",
+      "city": "عنابة"
+    },
+    "items": [
+      {
+        "id": 5,
+        "name": "Y2R Aurum",
+        "size": 44,
+        "color": "وردي",
+        "qty": 1,
+        "price": 9900
+      }
+    ],
+    "total": 9900,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-049",
+    "createdAt": "2026-10-28T13:39:54.000Z",
+    "customer": {
+      "name": "هشام عمراني",
+      "phone": "0550 00 51 40",
+      "city": "عنابة"
+    },
+    "items": [
+      {
+        "id": 8,
+        "name": "Y2R Crown",
+        "size": 43,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 7600
+      }
+    ],
+    "total": 7600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-029",
+    "createdAt": "2026-10-28T13:57:05.000Z",
+    "customer": {
+      "name": "شيماء قاسمي",
+      "phone": "0550 00 40 99",
+      "city": "الشلف"
+    },
+    "items": [
+      {
+        "id": 1,
+        "name": "Y2R Sand",
+        "size": 44,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 6800
+      }
+    ],
+    "total": 6800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-089",
+    "createdAt": "2026-10-28T17:45:54.000Z",
+    "customer": {
+      "name": "مراد خليفي",
+      "phone": "0550 00 22 21",
+      "city": "تلمسان"
+    },
+    "items": [
+      {
+        "id": 8,
+        "name": "Y2R Crown",
+        "size": 42,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 7600
+      }
+    ],
+    "total": 7600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-065",
+    "createdAt": "2026-10-29T10:27:14.000Z",
+    "customer": {
+      "name": "نور الهدى جعفري",
+      "phone": "0550 00 24 19",
+      "city": "المدية"
+    },
+    "items": [
+      {
+        "id": 11,
+        "name": "Y2R Volt",
+        "size": 42,
+        "color": "برتقالي",
+        "qty": 2,
+        "price": 8600
+      }
+    ],
+    "total": 17200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-023",
+    "createdAt": "2026-10-29T20:04:43.000Z",
+    "customer": {
+      "name": "مراد حداد",
+      "phone": "0550 00 67 67",
+      "city": "بجاية"
+    },
+    "items": [
+      {
+        "id": 14,
+        "name": "Y2R Street",
+        "size": 41,
+        "color": "برتقالي",
+        "qty": 1,
+        "price": 6500
+      }
+    ],
+    "total": 6500,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-064",
+    "createdAt": "2026-10-30T00:08:57.000Z",
+    "customer": {
+      "name": "سلمى مداني",
+      "phone": "0550 00 99 91",
+      "city": "جيجل"
+    },
+    "items": [
+      {
+        "id": 7,
+        "name": "Y2R High Rise",
+        "size": 40,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 8300
+      },
+      {
+        "id": 14,
+        "name": "Y2R Street",
+        "size": 40,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 6500
+      }
+    ],
+    "total": 14800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-004",
+    "createdAt": "2026-10-30T00:13:01.000Z",
+    "customer": {
+      "name": "يوسف تيطراوي",
+      "phone": "0550 00 11 71",
+      "city": "المسيلة"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 44,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 8100
+      }
+    ],
+    "total": 8100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-070",
+    "createdAt": "2026-10-30T07:39:01.000Z",
+    "customer": {
+      "name": "هاجر مقران",
+      "phone": "0550 00 54 84",
+      "city": "مستغانم"
+    },
+    "items": [
+      {
+        "id": 9,
+        "name": "Y2R Cognac",
+        "size": 40,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 7000
+      }
+    ],
+    "total": 7000,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-006",
+    "createdAt": "2026-10-30T11:06:44.000Z",
+    "customer": {
+      "name": "أمين سعيدي",
+      "phone": "0550 00 64 96",
+      "city": "المدية"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 43,
+        "color": "بنفسجي",
+        "qty": 2,
+        "price": 9200
+      }
+    ],
+    "total": 18400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-097",
+    "createdAt": "2026-11-01T02:26:02.000Z",
+    "customer": {
+      "name": "يوسف بن يحيى",
+      "phone": "0550 00 35 56",
+      "city": "الشلف"
+    },
+    "items": [
+      {
+        "id": 4,
+        "name": "Y2R Midas",
+        "size": 41,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 9600
+      }
+    ],
+    "total": 9600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-019",
+    "createdAt": "2026-11-01T09:48:09.000Z",
+    "customer": {
+      "name": "هشام مزياني",
+      "phone": "0550 00 76 29",
+      "city": "قسنطينة"
+    },
+    "items": [
+      {
+        "id": 6,
+        "name": "Y2R Cobalt",
+        "size": 40,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 8800
+      }
+    ],
+    "total": 8800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-016",
+    "createdAt": "2026-11-01T21:11:56.000Z",
+    "customer": {
+      "name": "سمير بلقاسم",
+      "phone": "0550 00 75 39",
+      "city": "سكيكدة"
+    },
+    "items": [
+      {
+        "id": 20,
+        "name": "Y2R Summit",
+        "size": 39,
+        "color": "وردي",
+        "qty": 1,
+        "price": 9600
+      }
+    ],
+    "total": 9600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-098",
+    "createdAt": "2026-11-02T02:28:55.000Z",
+    "customer": {
+      "name": "وليد تيطراوي",
+      "phone": "0550 00 21 13",
+      "city": "المدية"
+    },
+    "items": [
+      {
+        "id": 10,
+        "name": "Y2R Cloud",
+        "size": 43,
+        "color": "برتقالي",
+        "qty": 1,
+        "price": 9400
+      }
+    ],
+    "total": 9400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-031",
+    "createdAt": "2026-11-02T17:53:09.000Z",
+    "customer": {
+      "name": "آية قاسمي",
+      "phone": "0550 00 07 94",
+      "city": "مستغانم"
+    },
+    "items": [
+      {
+        "id": 17,
+        "name": "Y2R Trail",
+        "size": 41,
+        "color": "وردي",
+        "qty": 2,
+        "price": 9100
+      }
+    ],
+    "total": 18200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-022",
+    "createdAt": "2026-11-02T22:06:23.000Z",
+    "customer": {
+      "name": "سمير قاسمي",
+      "phone": "0550 00 22 33",
+      "city": "الشلف"
+    },
+    "items": [
+      {
+        "id": 14,
+        "name": "Y2R Street",
+        "size": 39,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 6500
+      }
+    ],
+    "total": 6500,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-042",
+    "createdAt": "2026-11-02T23:58:51.000Z",
+    "customer": {
+      "name": "فاطمة زروقي",
+      "phone": "0550 00 65 13",
+      "city": "قسنطينة"
+    },
+    "items": [
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 42,
+        "color": "برتقالي",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 8300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-034",
+    "createdAt": "2026-11-03T02:25:43.000Z",
+    "customer": {
+      "name": "خديجة سعيدي",
+      "phone": "0550 00 84 28",
+      "city": "سطيف"
+    },
+    "items": [
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 42,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 8300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-039",
+    "createdAt": "2026-11-03T15:26:29.000Z",
+    "customer": {
+      "name": "مريم مزياني",
+      "phone": "0550 00 70 60",
+      "city": "غرداية"
+    },
+    "items": [
+      {
+        "id": 9,
+        "name": "Y2R Cognac",
+        "size": 41,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 7000
+      }
+    ],
+    "total": 7000,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-048",
+    "createdAt": "2026-11-04T01:30:51.000Z",
+    "customer": {
+      "name": "يوسف مقران",
+      "phone": "0550 00 63 99",
+      "city": "تيزي وزو"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 43,
+        "color": "وردي",
+        "qty": 1,
+        "price": 8100
+      }
+    ],
+    "total": 8100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-059",
+    "createdAt": "2026-11-04T02:38:17.000Z",
+    "customer": {
+      "name": "هشام خليفي",
+      "phone": "0550 00 61 32",
+      "city": "جيجل"
+    },
+    "items": [
+      {
+        "id": 2,
+        "name": "Y2R Heritage",
+        "size": 43,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 7200
+      },
+      {
+        "id": 8,
+        "name": "Y2R Crown",
+        "size": 41,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 7600
+      }
+    ],
+    "total": 14800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-100",
+    "createdAt": "2026-11-04T08:37:41.000Z",
+    "customer": {
+      "name": "سارة بن يحيى",
+      "phone": "0550 00 26 78",
+      "city": "المسيلة"
+    },
+    "items": [
+      {
+        "id": 4,
+        "name": "Y2R Midas",
+        "size": 43,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 9600
+      }
+    ],
+    "total": 9600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-053",
+    "createdAt": "2026-11-04T12:59:51.000Z",
+    "customer": {
+      "name": "أنيس تيطراوي",
+      "phone": "0550 00 12 86",
+      "city": "جيجل"
+    },
+    "items": [
+      {
+        "id": 13,
+        "name": "Y2R Mesh",
+        "size": 44,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 7500
+      }
+    ],
+    "total": 7500,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-068",
+    "createdAt": "2026-11-05T09:31:59.000Z",
+    "customer": {
+      "name": "فاطمة قاسمي",
+      "phone": "0550 00 69 11",
+      "city": "الشلف"
+    },
+    "items": [
+      {
+        "id": 20,
+        "name": "Y2R Summit",
+        "size": 39,
+        "color": "أزرق",
+        "qty": 2,
+        "price": 9600
+      }
+    ],
+    "total": 19200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-076",
+    "createdAt": "2026-11-05T12:20:03.000Z",
+    "customer": {
+      "name": "يوسف رحماني",
+      "phone": "0550 00 05 08",
+      "city": "سكيكدة"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 43,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 9200
+      },
+      {
+        "id": 17,
+        "name": "Y2R Trail",
+        "size": 41,
+        "color": "بنفسجي",
+        "qty": 2,
+        "price": 9100
+      }
+    ],
+    "total": 27400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-090",
+    "createdAt": "2026-11-06T01:10:18.000Z",
+    "customer": {
+      "name": "مريم زروقي",
+      "phone": "0550 00 59 11",
+      "city": "الجزائر"
+    },
+    "items": [
+      {
+        "id": 7,
+        "name": "Y2R High Rise",
+        "size": 42,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 8300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-051",
+    "createdAt": "2026-11-06T09:18:25.000Z",
+    "customer": {
+      "name": "آية حداد",
+      "phone": "0550 00 40 34",
+      "city": "الشلف"
+    },
+    "items": [
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 42,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 8300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-041",
+    "createdAt": "2026-11-06T11:11:21.000Z",
+    "customer": {
+      "name": "إيمان حداد",
+      "phone": "0550 00 02 68",
+      "city": "باتنة"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 44,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 9200
+      }
+    ],
+    "total": 9200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-079",
+    "createdAt": "2026-11-07T03:45:15.000Z",
+    "customer": {
+      "name": "إيمان مزياني",
+      "phone": "0550 00 88 31",
+      "city": "ورقلة"
+    },
+    "items": [
+      {
+        "id": 11,
+        "name": "Y2R Volt",
+        "size": 42,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 8600
+      }
+    ],
+    "total": 8600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-071",
+    "createdAt": "2026-11-08T00:50:46.000Z",
+    "customer": {
+      "name": "سمير جعفري",
+      "phone": "0550 00 54 92",
+      "city": "مستغانم"
+    },
+    "items": [
+      {
+        "id": 6,
+        "name": "Y2R Cobalt",
+        "size": 42,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 8800
+      }
+    ],
+    "total": 8800,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-087",
+    "createdAt": "2026-11-08T06:41:17.000Z",
+    "customer": {
+      "name": "وليد خليفي",
+      "phone": "0550 00 82 05",
+      "city": "جيجل"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 41,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 9200
+      }
+    ],
+    "total": 9200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-084",
+    "createdAt": "2026-11-08T12:25:00.000Z",
+    "customer": {
+      "name": "نبيل زروقي",
+      "phone": "0550 00 67 34",
+      "city": "بسكرة"
+    },
+    "items": [
+      {
+        "id": 14,
+        "name": "Y2R Street",
+        "size": 40,
+        "color": "أخضر",
+        "qty": 2,
+        "price": 6500
+      }
+    ],
+    "total": 13000,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-054",
+    "createdAt": "2026-11-09T05:27:43.000Z",
+    "customer": {
+      "name": "نبيل جعفري",
+      "phone": "0550 00 89 32",
+      "city": "سطيف"
+    },
+    "items": [
+      {
+        "id": 18,
+        "name": "Y2R Shadow",
+        "size": 41,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 6700
+      },
+      {
+        "id": 11,
+        "name": "Y2R Volt",
+        "size": 44,
+        "color": "الأصلي",
+        "qty": 2,
+        "price": 8600
+      }
+    ],
+    "total": 23900,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-067",
+    "createdAt": "2026-11-09T08:49:41.000Z",
+    "customer": {
+      "name": "إيمان بوزيد",
+      "phone": "0550 00 96 23",
+      "city": "سطيف"
+    },
+    "items": [
+      {
+        "id": 18,
+        "name": "Y2R Shadow",
+        "size": 42,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 6700
+      }
+    ],
+    "total": 6700,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-045",
+    "createdAt": "2026-11-09T11:57:52.000Z",
+    "customer": {
+      "name": "ريم حداد",
+      "phone": "0550 00 65 85",
+      "city": "الجزائر"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 43,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 8100
+      },
+      {
+        "id": 1,
+        "name": "Y2R Sand",
+        "size": 40,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 6800
+      }
+    ],
+    "total": 14900,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-073",
+    "createdAt": "2026-11-09T16:11:31.000Z",
+    "customer": {
+      "name": "سمير شريف",
+      "phone": "0550 00 82 55",
+      "city": "باتنة"
+    },
+    "items": [
+      {
+        "id": 7,
+        "name": "Y2R High Rise",
+        "size": 39,
+        "color": "وردي",
+        "qty": 1,
+        "price": 8300
+      },
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 44,
+        "color": "وردي",
+        "qty": 1,
+        "price": 8100
+      }
+    ],
+    "total": 16400,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-057",
+    "createdAt": "2026-11-09T17:48:16.000Z",
+    "customer": {
+      "name": "إلياس مزياني",
+      "phone": "0550 00 26 77",
+      "city": "عنابة"
+    },
+    "items": [
+      {
+        "id": 7,
+        "name": "Y2R High Rise",
+        "size": 39,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 8300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-046",
+    "createdAt": "2026-11-09T18:57:26.000Z",
+    "customer": {
+      "name": "ليلى لعرابي",
+      "phone": "0550 00 16 13",
+      "city": "سيدي بلعباس"
+    },
+    "items": [
+      {
+        "id": 3,
+        "name": "Y2R Blaze",
+        "size": 43,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 9200
+      }
+    ],
+    "total": 9200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-036",
+    "createdAt": "2026-11-10T06:09:59.000Z",
+    "customer": {
+      "name": "مريم رحماني",
+      "phone": "0550 00 11 22",
+      "city": "المسيلة"
+    },
+    "items": [
+      {
+        "id": 18,
+        "name": "Y2R Shadow",
+        "size": 41,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 6700
+      }
+    ],
+    "total": 6700,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-026",
+    "createdAt": "2026-11-11T08:57:06.000Z",
+    "customer": {
+      "name": "نبيل حداد",
+      "phone": "0550 00 55 21",
+      "city": "البليدة"
+    },
+    "items": [
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 40,
+        "color": "برتقالي",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 8300,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-092",
+    "createdAt": "2026-11-11T17:29:43.000Z",
+    "customer": {
+      "name": "إيمان عمراني",
+      "phone": "0550 00 80 53",
+      "city": "غرداية"
+    },
+    "items": [
+      {
+        "id": 4,
+        "name": "Y2R Midas",
+        "size": 42,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 9600
+      }
+    ],
+    "total": 9600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-075",
+    "createdAt": "2026-11-12T23:16:14.000Z",
+    "customer": {
+      "name": "إيمان جعفري",
+      "phone": "0550 00 41 96",
+      "city": "بجاية"
+    },
+    "items": [
+      {
+        "id": 4,
+        "name": "Y2R Midas",
+        "size": 41,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 9600
+      },
+      {
+        "id": 15,
+        "name": "Y2R Noir Gold",
+        "size": 43,
+        "color": "أزرق",
+        "qty": 1,
+        "price": 7300
+      }
+    ],
+    "total": 16900,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-020",
+    "createdAt": "2026-11-13T01:25:46.000Z",
+    "customer": {
+      "name": "سارة بوزيد",
+      "phone": "0550 00 57 96",
+      "city": "باتنة"
+    },
+    "items": [
+      {
+        "id": 2,
+        "name": "Y2R Heritage",
+        "size": 40,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 7200
+      }
+    ],
+    "total": 7200,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-043",
+    "createdAt": "2026-11-13T04:03:22.000Z",
+    "customer": {
+      "name": "أمينة شريف",
+      "phone": "0550 00 20 37",
+      "city": "تيزي وزو"
+    },
+    "items": [
+      {
+        "id": 13,
+        "name": "Y2R Mesh",
+        "size": 41,
+        "color": "برتقالي",
+        "qty": 1,
+        "price": 7500
+      }
+    ],
+    "total": 7500,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-033",
+    "createdAt": "2026-11-13T07:07:49.000Z",
+    "customer": {
+      "name": "فاطمة قاسمي",
+      "phone": "0550 00 76 82",
+      "city": "تيزي وزو"
+    },
+    "items": [
+      {
+        "id": 4,
+        "name": "Y2R Midas",
+        "size": 39,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 9600
+      }
+    ],
+    "total": 9600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-077",
+    "createdAt": "2026-11-13T18:11:03.000Z",
+    "customer": {
+      "name": "ريم تيطراوي",
+      "phone": "0550 00 17 03",
+      "city": "البليدة"
+    },
+    "items": [
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 44,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 8300
+      },
+      {
+        "id": 19,
+        "name": "Y2R Air",
+        "size": 43,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 8300
+      }
+    ],
+    "total": 16600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-093",
+    "createdAt": "2026-11-13T18:52:15.000Z",
+    "customer": {
+      "name": "نبيل لعرابي",
+      "phone": "0550 00 14 48",
+      "city": "تلمسان"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 43,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 8100
+      }
+    ],
+    "total": 8100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-096",
+    "createdAt": "2026-11-13T19:23:29.000Z",
+    "customer": {
+      "name": "ليلى بوعزة",
+      "phone": "0550 00 19 48",
+      "city": "الجزائر"
+    },
+    "items": [
+      {
+        "id": 17,
+        "name": "Y2R Trail",
+        "size": 41,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 9100
+      }
+    ],
+    "total": 9100,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-017",
+    "createdAt": "2026-11-13T23:49:30.000Z",
+    "customer": {
+      "name": "أمين بن يحيى",
+      "phone": "0550 00 09 06",
+      "city": "بسكرة"
+    },
+    "items": [
+      {
+        "id": 5,
+        "name": "Y2R Aurum",
+        "size": 42,
+        "color": "بنفسجي",
+        "qty": 1,
+        "price": 9900
+      }
+    ],
+    "total": 9900,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-028",
+    "createdAt": "2026-11-14T00:00:47.000Z",
+    "customer": {
+      "name": "هاجر مداني",
+      "phone": "0550 00 53 01",
+      "city": "وهران"
+    },
+    "items": [
+      {
+        "id": 11,
+        "name": "Y2R Volt",
+        "size": 39,
+        "color": "أحمر",
+        "qty": 1,
+        "price": 8600
+      }
+    ],
+    "total": 8600,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-074",
+    "createdAt": "2026-11-14T03:08:40.000Z",
+    "customer": {
+      "name": "فاطمة مزياني",
+      "phone": "0550 00 34 45",
+      "city": "جيجل"
+    },
+    "items": [
+      {
+        "id": 14,
+        "name": "Y2R Street",
+        "size": 40,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 6500
+      },
+      {
+        "id": 9,
+        "name": "Y2R Cognac",
+        "size": 42,
+        "color": "أخضر",
+        "qty": 1,
+        "price": 7000
+      }
+    ],
+    "total": 13500,
+    "mode": "demo"
+  },
+  {
+    "id": "Y2R-DEMO-013",
+    "createdAt": "2026-11-14T09:50:45.000Z",
+    "customer": {
+      "name": "أمينة جعفري",
+      "phone": "0550 00 10 78",
+      "city": "باتنة"
+    },
+    "items": [
+      {
+        "id": 12,
+        "name": "Y2R Rally",
+        "size": 42,
+        "color": "الأصلي",
+        "qty": 1,
+        "price": 8100
+      },
+      {
+        "id": 5,
+        "name": "Y2R Aurum",
+        "size": 39,
+        "color": "أزرق",
+        "qty": 2,
+        "price": 9900
+      }
+    ],
+    "total": 27900,
+    "mode": "demo"
+  }
+]
